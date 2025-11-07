@@ -109,8 +109,7 @@ const Home = () => {
 
           {/* Description */}
           <p className="partnership-description max-width-p">
-            GCS is officially registered under the Bangaru Kutumbalu program, committed to 
-            supporting 20 families across Visakhapatnam and Anakapalli districts.
+            GCS is officially registered under the Bangaru Kutumbalu program, committed to supporting 20 families across Visakhapatnam and Anakapalli districts.
           </p>
 
           {/* Statistics */}
